@@ -1,0 +1,49 @@
+.bgimg{
+    background-image: url('../img/vision-mission-img-civil.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 650px;
+}
+
+.headerset{
+    box-sizing: border-box;
+    padding-top: 250px;
+   
+}
+.headerset h2{
+    font-size: 42px;
+
+}
+.headerset h1{
+    font-size: 72px;
+}
+
+.ourservices{
+    padding: 70px 0px 60px;
+    height: 700px;
+}
+.ourservices h1{
+    font-size: 50px;
+    font-weight: bolder;
+}
+.rowsetting{
+    margin: 80px 0px !important;
+}
+.imgsetting{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.fa{
+    margin-top: 20px;
+}
+.rowsetting p{
+    padding: 10px;
+    color: #6c757d;
+}
+.rowsetting h2{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+}
